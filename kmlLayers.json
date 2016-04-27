@@ -1,0 +1,24 @@
+{
+	"layer":[
+		{
+			"url": "http://www.akstem.com/sites/default/files/doc.kml",
+			"picture" : "http://miriadna.com/desctopwalls/images/max/Across-the-field.jpg",
+			"title": "KML1",
+			"description":"I am a layer",
+			"type" : "vineyard"
+
+		}, {
+			"url": "http://www.akstem.com/sites/default/files/doc1.kml",
+			"picture" : "http://miriadna.com/desctopwalls/images/max/Across-the-field.jpg",
+			"title": "KML2",
+			"description":"I am a layer",
+			"type" : "variete"
+		}, {
+			"url": "http://www.akstem.com/sites/default/files/doc2.kml",
+			"picture" : "http://miriadna.com/desctopwalls/images/max/Across-the-field.jpg",
+			"title": "KML3",
+			"description":"I am a layer",
+			"type" : "variete"
+		} 
+	]
+}

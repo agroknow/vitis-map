@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html ng-app="mapsApp">
+<head>
+<meta charset="ISO-8859-1">
+<title>Vitis Map</title>
+<link rel="stylesheet" href="css/maps.css"/>
+<script
+  src="bower_components/angular/angular.min.js"></script>
+<script
+  src="http://maps.googleapis.com/maps/api/js?key=AIzaSyBO3tNi1kDiOGOVGfJHb7boC8-zfhLPvUQ&language=en"></script>
+  <script type="text/javascript" src="js/directives/angular-openlayers-directive.js"></script>
+  <script type="text/javascript" src="js/map.js"></script>
+
+</head>
+<body>
+	<openlayers ol-center="center" height="480px" width="640px"></openlayers>
+</body>
+</html>
